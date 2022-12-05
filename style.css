@@ -1,3 +1,17 @@
 body {
+  background-color: beige;
+}
 
+h4 {
+  color: orange;
+  text-align: center;
+  font-size: 100px;
+  border: dotted yellow 
+    25px;
+  
+}
+
+img {
+  border:dashed red
+    3px; 
 }
